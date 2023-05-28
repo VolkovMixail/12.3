@@ -7,7 +7,7 @@
 ___
 **Ответ:**
 
-![]()
+![](https://github.com/VolkovMixail/12.3/blob/main/img/1.png)
 
 
 # Задание 2.
@@ -15,7 +15,7 @@ ___
 ___
 **Ответ:**
 
-![]()
+![](https://github.com/VolkovMixail/12.3/blob/main/img/2.png)
 
 
 # Задание 3.
@@ -23,7 +23,7 @@ ___
 ___
 **Ответ:**
 
-![]()
+![](https://github.com/VolkovMixail/12.3/blob/main/img/3.png)
 
 
 # Задание 4.
@@ -36,4 +36,4 @@ ___
 ___
 **Ответ:**
 
-![]()
+![](https://github.com/VolkovMixail/12.3/blob/main/img/4.png)
