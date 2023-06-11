@@ -37,4 +37,4 @@ ___
 ___
 **Ответ:**
 
-![](https://github.com/VolkovMixail/12.3/blob/main/img/4.png)
+![](https://github.com/VolkovMixail/12.3/blob/main/img/12-3-4.png)
