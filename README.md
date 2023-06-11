@@ -15,7 +15,8 @@ ___
 ___
 **Ответ:**
 
-![](https://github.com/VolkovMixail/12.3/blob/main/img/2.png)
+![](https://github.com/VolkovMixail/12.3/blob/main/12-3-21.png)
+![](https://github.com/VolkovMixail/12.3/blob/main/12-3-22.png)
 
 
 # Задание 3.
